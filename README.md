@@ -9,3 +9,10 @@ I am PhD. candidate in mathematics under supervision of Daniel Barrera Salazar a
 Inside of my research interest, are Number Theory, Automorphic Forms, Complex Analysis and Abstract Algebra.
 
 Contacto marco.godoy@usach.cl
+
+##News today
+
+As student, I am attending to the following seminars
+
+- Explicit class field Theory at Pontificia Universidad Católica de Chile seminar, with the tutors Daniel Barrera Salazar, Ricardo Menares and Patricio Pérez.
+- SANTAS seminar, at the Departament of Mathematics of the Juan Gómez Millas campus, Universidad de Chile,
