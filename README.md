@@ -10,7 +10,7 @@ Inside of my research interest, are Number Theory, Automorphic Forms, Complex An
 
 Contacto marco.godoy@usach.cl
 
-##News today
+## News today
 
 As student, I am attending to the following seminars
 
