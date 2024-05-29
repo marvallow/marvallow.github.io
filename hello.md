@@ -6,4 +6,4 @@ I am PhD. candidate in mathematics under supervision of Daniel Barrera Salazar a
 
 Inside of my research interest, are Number Theory, Automorphic Forms, Complex Analysis and Abstract Algebra.
 
-Contactomarco.godoy@usach.cl
+Contacto *marco.godoy@usach.cl*
