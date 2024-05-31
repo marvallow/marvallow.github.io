@@ -1,0 +1,18 @@
+/* Estilo para todos los párrafos */
+p {
+    color: black;
+    font-size: 20px;
+}
+
+/* Estilo para los elementos con la clase "boton" */
+.boton {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+}
+
+/* Estilo para un elemento con el id "encabezado" */
+#encabezado {
+    font-size: 24px;
+    font-weight: bold;
+}
